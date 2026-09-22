@@ -1,0 +1,512 @@
+[
+  {
+    "file": "001.mp3",
+    "text": "Jump off.",
+    "raw_text": "[ominous] Jump off."
+  },
+  {
+    "file": "002.mp3",
+    "text": "It is time.",
+    "raw_text": "[dramatic] It is time."
+  },
+  {
+    "file": "003.mp3",
+    "text": "Do it.",
+    "raw_text": "[commanding] Do it."
+  },
+  {
+    "file": "004.mp3",
+    "text": "Run.",
+    "raw_text": "[urgent] Run."
+  },
+  {
+    "file": "005.mp3",
+    "text": "You know what you must do.",
+    "raw_text": "[ominous] You know what you must do."
+  },
+  {
+    "file": "006.mp3",
+    "text": "The hour has come.",
+    "raw_text": "[grandiose] The hour has come."
+  },
+  {
+    "file": "007.mp3",
+    "text": "Accept your fate.",
+    "raw_text": "[ominous] Accept your fate."
+  },
+  {
+    "file": "008.mp3",
+    "text": "There is no turning back.",
+    "raw_text": "[dramatic] There is no turning back."
+  },
+  {
+    "file": "009.mp3",
+    "text": "Proceed.",
+    "raw_text": "[cold] Proceed."
+  },
+  {
+    "file": "010.mp3",
+    "text": "The prophecy demands it.",
+    "raw_text": "[mystical] The prophecy demands it."
+  },
+  {
+    "file": "011.mp3",
+    "text": "So it begins.",
+    "raw_text": "[dramatic whisper] So it begins."
+  },
+  {
+    "file": "012.mp3",
+    "text": "You have been chosen.",
+    "raw_text": "[mysterious] You have been chosen."
+  },
+  {
+    "file": "013.mp3",
+    "text": "This is your sign.",
+    "raw_text": "[mysterious] This is your sign."
+  },
+  {
+    "file": "014.mp3",
+    "text": "The answer is obvious.",
+    "raw_text": "[deadpan] The answer is obvious."
+  },
+  {
+    "file": "015.mp3",
+    "text": "Fate has spoken.",
+    "raw_text": "[grandiose] Fate has spoken."
+  },
+  {
+    "file": "016.mp3",
+    "text": "We have decided.",
+    "raw_text": "[ominous] We have decided."
+  },
+  {
+    "file": "017.mp3",
+    "text": "The council has spoken.",
+    "raw_text": "[authoritative] The council has spoken."
+  },
+  {
+    "file": "018.mp3",
+    "text": "The council is disappointed.",
+    "raw_text": "[disappointed] The council is disappointed."
+  },
+  {
+    "file": "019.mp3",
+    "text": "The council is watching.",
+    "raw_text": "[ominous whisper] The council is watching."
+  },
+  {
+    "file": "020.mp3",
+    "text": "The council knows.",
+    "raw_text": "[ominous] The council knows."
+  },
+  {
+    "file": "021.mp3",
+    "text": "The council has decided your fate... death by baguette.",
+    "raw_text": "[dramatic] The council has decided your fate... death by baguette."
+  },
+  {
+    "file": "022.mp3",
+    "text": "Your fate has been sealed... with expired glue.",
+    "raw_text": "[deadpan] Your fate has been sealed... with expired glue."
+  },
+  {
+    "file": "023.mp3",
+    "text": "You will perish... in an extremely inconvenient manner.",
+    "raw_text": "[ominous] You will perish... in an extremely inconvenient manner."
+  },
+  {
+    "file": "024.mp3",
+    "text": "The prophecy foretells... a minor inconvenience.",
+    "raw_text": "[mystical, deadpan] The prophecy foretells... a minor inconvenience."
+  },
+  {
+    "file": "025.mp3",
+    "text": "Your punishment is... three hours of elevator music.",
+    "raw_text": "[serious] Your punishment is... three hours of elevator music."
+  },
+  {
+    "file": "026.mp3",
+    "text": "You have been sentenced to the shadow realm. Probably.",
+    "raw_text": "[dramatic, uncertain] You have been sentenced to the shadow realm. Probably."
+  },
+  {
+    "file": "027.mp3",
+    "text": "Death approaches... wearing Crocs.",
+    "raw_text": "[ominous, confused] Death approaches... wearing Crocs."
+  },
+  {
+    "file": "028.mp3",
+    "text": "Your time has come... to buy more milk.",
+    "raw_text": "[dramatic, mundane] Your time has come... to buy more milk."
+  },
+  {
+    "file": "029.mp3",
+    "text": "You will be remembered... mostly by your browser history.",
+    "raw_text": "[solemn] You will be remembered... mostly by your browser history."
+  },
+  {
+    "file": "030.mp3",
+    "text": "The end is near... please remain seated.",
+    "raw_text": "[ominous, polite] The end is near... please remain seated."
+  },
+  {
+    "file": "031.mp3",
+    "text": "The council has reached a decision... they won't tell you.",
+    "raw_text": "[mysterious] The council has reached a decision... they won't tell you."
+  },
+  {
+    "file": "032.mp3",
+    "text": "Your fate is sealed... someone used too much tape.",
+    "raw_text": "[deadpan] Your fate is sealed... someone used too much tape."
+  },
+  {
+    "file": "033.mp3",
+    "text": "You have been judged... and found mildly annoying.",
+    "raw_text": "[judgmental] You have been judged... and found mildly annoying."
+  },
+  {
+    "file": "034.mp3",
+    "text": "Prepare yourself... for something.",
+    "raw_text": "[ominous, uncertain] Prepare yourself... for something."
+  },
+  {
+    "file": "035.mp3",
+    "text": "Your downfall approaches... at walking speed.",
+    "raw_text": "[dramatic, deadpan] Your downfall approaches... at walking speed."
+  },
+  {
+    "file": "036.mp3",
+    "text": "Consult the frog.",
+    "raw_text": "[mysterious] Consult the frog."
+  },
+  {
+    "file": "037.mp3",
+    "text": "Ask again after eating a banana.",
+    "raw_text": "[deadpan] Ask again after eating a banana."
+  },
+  {
+    "file": "038.mp3",
+    "text": "The toaster knows.",
+    "raw_text": "[ominous whisper] The toaster knows."
+  },
+  {
+    "file": "039.mp3",
+    "text": "Your answer is hiding under the couch.",
+    "raw_text": "[mysterious] Your answer is hiding under the couch."
+  },
+  {
+    "file": "040.mp3",
+    "text": "Throw a chair and see what happens.",
+    "raw_text": "[casual] Throw a chair and see what happens."
+  },
+  {
+    "file": "041.mp3",
+    "text": "Become the worm.",
+    "raw_text": "[mystical] Become the worm."
+  },
+  {
+    "file": "042.mp3",
+    "text": "Eat the receipt.",
+    "raw_text": "[commanding] Eat the receipt."
+  },
+  {
+    "file": "043.mp3",
+    "text": "Blame Greg.",
+    "raw_text": "[deadpan] Blame Greg."
+  },
+  {
+    "file": "044.mp3",
+    "text": "Do not trust the spoon.",
+    "raw_text": "[ominous whisper] Do not trust the spoon."
+  },
+  {
+    "file": "045.mp3",
+    "text": "The moon says no.",
+    "raw_text": "[mystical] The moon says no."
+  },
+  {
+    "file": "046.mp3",
+    "text": "The moon says yes, unfortunately.",
+    "raw_text": "[disappointed] The moon says yes, unfortunately."
+  },
+  {
+    "file": "047.mp3",
+    "text": "Have you tried screaming?",
+    "raw_text": "[genuinely curious] Have you tried screaming?"
+  },
+  {
+    "file": "048.mp3",
+    "text": "Roll a dice. Ignore the result.",
+    "raw_text": "[casual] Roll a dice. Ignore the result."
+  },
+  {
+    "file": "049.mp3",
+    "text": "Ask your left shoe.",
+    "raw_text": "[deadpan] Ask your left shoe."
+  },
+  {
+    "file": "050.mp3",
+    "text": "The pigeons have voted.",
+    "raw_text": "[authoritative] The pigeons have voted."
+  },
+  {
+    "file": "051.mp3",
+    "text": "The floor has decided.",
+    "raw_text": "[ominous] The floor has decided."
+  },
+  {
+    "file": "052.mp3",
+    "text": "Become ungovernable.",
+    "raw_text": "[triumphant] Become ungovernable."
+  },
+  {
+    "file": "053.mp3",
+    "text": "Acquire a bucket.",
+    "raw_text": "[serious] Acquire a bucket."
+  },
+  {
+    "file": "054.mp3",
+    "text": "Perhaps.",
+    "raw_text": "[mysterious whisper] Perhaps."
+  },
+  {
+    "file": "055.mp3",
+    "text": "Absolutely not, idiot.",
+    "raw_text": "[deadpan, annoyed] Absolutely not, idiot."
+  },
+  {
+    "file": "056.mp3",
+    "text": "Yes, but at what cost?",
+    "raw_text": "[dramatic] Yes, but at what cost?"
+  },
+  {
+    "file": "057.mp3",
+    "text": "No, but make it dramatic.",
+    "raw_text": "[sarcastic] No, but make it dramatic."
+  },
+  {
+    "file": "058.mp3",
+    "text": "Maybe. Consult the cheese.",
+    "raw_text": "[mystical, confused] Maybe. Consult the cheese."
+  },
+  {
+    "file": "059.mp3",
+    "text": "Ask again when the moon is less weird.",
+    "raw_text": "[tired] Ask again when the moon is less weird."
+  },
+  {
+    "file": "060.mp3",
+    "text": "The ancient texts warned us about this.",
+    "raw_text": "[ominous] The ancient texts warned us about this."
+  },
+  {
+    "file": "061.mp3",
+    "text": "Three signs have appeared. None were useful.",
+    "raw_text": "[mystical, disappointed] Three signs have appeared. None were useful."
+  },
+  {
+    "file": "062.mp3",
+    "text": "When the seventh bell rings, you shall know.",
+    "raw_text": "[grandiose] When the seventh bell rings, you shall know."
+  },
+  {
+    "file": "063.mp3",
+    "text": "The prophecy is unclear, but it sounds bad.",
+    "raw_text": "[concerned] The prophecy is unclear, but it sounds bad."
+  },
+  {
+    "file": "064.mp3",
+    "text": "The oracle has spoken. Unfortunately, it mumbled.",
+    "raw_text": "[mystical, annoyed] The oracle has spoken. Unfortunately, it mumbled."
+  },
+  {
+    "file": "065.mp3",
+    "text": "The ancient ones demand a sacrifice... of your free time.",
+    "raw_text": "[dramatic] The ancient ones demand a sacrifice... of your free time."
+  },
+  {
+    "file": "066.mp3",
+    "text": "Your destiny awaits you in aisle seven.",
+    "raw_text": "[grandiose, confused] Your destiny awaits you in aisle seven."
+  },
+  {
+    "file": "067.mp3",
+    "text": "The sacred scroll has been consulted.",
+    "raw_text": "[ceremonial] The sacred scroll has been consulted."
+  },
+  {
+    "file": "068.mp3",
+    "text": "The sacred scroll says lol.",
+    "raw_text": "[deadpan] The sacred scroll says lol."
+  },
+  {
+    "file": "069.mp3",
+    "text": "The universe has provided an answer.",
+    "raw_text": "[grandiose] The universe has provided an answer."
+  },
+  {
+    "file": "070.mp3",
+    "text": "The universe has requested that you stop.",
+    "raw_text": "[ominous, polite] The universe has requested that you stop."
+  },
+  {
+    "file": "071.mp3",
+    "text": "Fate has rolled the dice.",
+    "raw_text": "[dramatic] Fate has rolled the dice."
+  },
+  {
+    "file": "072.mp3",
+    "text": "Fate rolled a one. Good luck.",
+    "raw_text": "[deadpan] Fate rolled a one. Good luck."
+  },
+  {
+    "file": "073.mp3",
+    "text": "Bing bong. The verdict is: absolutely not.",
+    "raw_text": "[authoritative, deadpan] Bing bong. The verdict is: absolutely not."
+  },
+  {
+    "file": "074.mp3",
+    "text": "The council has decided. You are now a chair.",
+    "raw_text": "[ceremonial, absurd] The council has decided. You are now a chair."
+  },
+  {
+    "file": "075.mp3",
+    "text": "Jump off. Not literally. Probably.",
+    "raw_text": "[ominous, uncertain] Jump off. Not literally. Probably."
+  },
+  {
+    "file": "076.mp3",
+    "text": "It is time... to reconsider.",
+    "raw_text": "[dramatic] It is time... to reconsider."
+  },
+  {
+    "file": "077.mp3",
+    "text": "Death by suspiciously large hamster.",
+    "raw_text": "[ominous, confused] Death by suspiciously large hamster."
+  },
+  {
+    "file": "078.mp3",
+    "text": "You have 7 seconds. For what? Find out.",
+    "raw_text": "[urgent, mysterious] You have 7 seconds. For what? Find out."
+  },
+  {
+    "file": "079.mp3",
+    "text": "The machine has spoken. The machine regrets it.",
+    "raw_text": "[robotic, disappointed] The machine has spoken. The machine regrets it."
+  },
+  {
+    "file": "080.mp3",
+    "text": "Your fate: incredibly embarrassing.",
+    "raw_text": "[solemn] Your fate: incredibly embarrassing."
+  },
+  {
+    "file": "081.mp3",
+    "text": "Congratulations. You have unlocked: consequences.",
+    "raw_text": "[cheerful, ominous] Congratulations. You have unlocked: consequences."
+  },
+  {
+    "file": "082.mp3",
+    "text": "ERROR: Destiny not found.",
+    "raw_text": "[robotic] ERROR: Destiny not found."
+  },
+  {
+    "file": "083.mp3",
+    "text": "The prophecy has been patched in the latest update.",
+    "raw_text": "[robotic, deadpan] The prophecy has been patched in the latest update."
+  },
+  {
+    "file": "084.mp3",
+    "text": "Your answer is behind you. Don't look.",
+    "raw_text": "[whispered, ominous] Your answer is behind you. Don't look."
+  },
+  {
+    "file": "085.mp3",
+    "text": "The council has decided your fate... mild public embarrassment.",
+    "raw_text": "[ceremonial] The council has decided your fate... mild public embarrassment."
+  },
+  {
+    "file": "086.mp3",
+    "text": "The council has decided your fate... one thousand years of buffering.",
+    "raw_text": "[dramatic] The council has decided your fate... one thousand years of buffering."
+  },
+  {
+    "file": "087.mp3",
+    "text": "The council has decided your fate... death by administrative paperwork.",
+    "raw_text": "[solemn, bureaucratic] The council has decided your fate... death by administrative paperwork."
+  },
+  {
+    "file": "088.mp3",
+    "text": "The council has decided your fate... being mildly inconvenienced forever.",
+    "raw_text": "[ominous, deadpan] The council has decided your fate... being mildly inconvenienced forever."
+  },
+  {
+    "file": "089.mp3",
+    "text": "The council has decided your fate... fighting a goose at dawn.",
+    "raw_text": "[epic, absurd] The council has decided your fate... fighting a goose at dawn."
+  },
+  {
+    "file": "090.mp3",
+    "text": "The council has decided your fate... eating an entire lemon.",
+    "raw_text": "[serious] The council has decided your fate... eating an entire lemon."
+  },
+  {
+    "file": "091.mp3",
+    "text": "The council has decided your fate... 400 years in the microwave.",
+    "raw_text": "[grandiose, absurd] The council has decided your fate... 400 years in the microwave."
+  },
+  {
+    "file": "092.mp3",
+    "text": "The council has decided your fate... you must explain NFTs to a horse.",
+    "raw_text": "[solemn, absurd] The council has decided your fate... you must explain NFTs to a horse."
+  },
+  {
+    "file": "093.mp3",
+    "text": "The answer is... no.",
+    "raw_text": "[very serious] The answer is... [pause] no."
+  },
+  {
+    "file": "094.mp3",
+    "text": "The council has spoken. Again.",
+    "raw_text": "The council has spoken. [disappointed] Again."
+  },
+  {
+    "file": "095.mp3",
+    "text": "Do not... touch the spoon.",
+    "raw_text": "[whisper] Do not... [dramatic] touch the spoon."
+  },
+  {
+    "file": "096.mp3",
+    "text": "Your fate has been decided. Poorly.",
+    "raw_text": "Your fate has been decided. [pause] [ominous] Poorly."
+  },
+  {
+    "file": "097.mp3",
+    "text": "Congratulations! You have doomed us all.",
+    "raw_text": "[excited] Congratulations! [ominous] You have doomed us all."
+  },
+  {
+    "file": "098.mp3",
+    "text": "The prophecy says ...what?",
+    "raw_text": "The prophecy says [confused] ...what?"
+  },
+  {
+    "file": "099.mp3",
+    "text": "You have made... a mistake.",
+    "raw_text": "[slowly] You have made... [ominous] a mistake."
+  },
+  {
+    "file": "100.mp3",
+    "text": "Great news! You are doomed.",
+    "raw_text": "[cheerful] Great news! [deadpan] You are doomed."
+  },
+  {
+    "file": "101.mp3",
+    "text": "The toaster knows. It always knows.",
+    "raw_text": "[whisper] The toaster knows. [pause] [ominous] It always knows."
+  },
+  {
+    "file": "102.mp3",
+    "text": "By decree of the council... why are you like this?",
+    "raw_text": "[ceremonial] By decree of the council... [confused] why are you like this?"
+  }
+]
